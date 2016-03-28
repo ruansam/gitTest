@@ -23,5 +23,8 @@ package
 		{
 			_loader.source = value;
 		}
+		public function addNewFun():void
+		{
+		}
 	}
 }
